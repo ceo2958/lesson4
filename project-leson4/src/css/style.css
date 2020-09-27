@@ -1,0 +1,13 @@
+body{
+background-color: #F3F781;
+margin-right: 250px;
+}
+nav{
+  color:blue;
+  position:fixed;
+  right: 10px;
+  top: 10px; 
+}
+.em{
+  font-style: italic;
+}
